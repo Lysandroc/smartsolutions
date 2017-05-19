@@ -2,6 +2,8 @@
 
 Conversão de arquivo excel para csv.
 
+Requisitos: .Net Core 1.0.1 SDK
+
 Para executar:
 
 - **cd NomeProjeto/CastFiles**
