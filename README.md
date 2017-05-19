@@ -4,7 +4,7 @@ Conversão de arquivo excel para csv.
 
 Para executar:
 
-- cd /CastFiles/
+- **cd NomeProjeto/CastFiles**
 - **dotnet restore**
 - **dotnet build**
 - **dotnet run**
